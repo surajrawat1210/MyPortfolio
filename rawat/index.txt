@@ -1,2 +1,1 @@
-first commit in index
-second commit
+this is first line

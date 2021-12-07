@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 this is first line
 this is the second line
+=======
+first commit in index
+>>>>>>> Stashed changes
